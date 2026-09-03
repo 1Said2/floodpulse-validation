@@ -1,0 +1,3 @@
+AUC: 0.810
+Umbral Optimo: 31.16
+Total Evaluados: 19

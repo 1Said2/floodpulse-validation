@@ -1,0 +1,272 @@
+[
+    {
+        "name": "Monte Sinaí, Guayaquil, Ecuador",
+        "lat": -2.125265,
+        "lon": -79.9961802,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Socio Vivienda 1, Guayaquil, Ecuador",
+        "lat": -2.129892,
+        "lon": -79.9628353,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Mapasingue, Guayaquil, Ecuador",
+        "lat": -2.1536035,
+        "lon": -79.9239369,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Nueva Prosperina, Guayaquil, Ecuador",
+        "lat": -2.1201294,
+        "lon": -79.9805719,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Riochico, Portoviejo, Ecuador",
+        "lat": -0.9951515,
+        "lon": -80.416626,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "río Chico, Portoviejo, Ecuador",
+        "lat": -1.0318445,
+        "lon": -80.3343915,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Calderón, Quito, Ecuador",
+        "lat": -0.0805104,
+        "lon": -78.416043,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "La Gasca, Quito, Ecuador",
+        "lat": -0.1940117,
+        "lon": -78.5106274,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Pomasqui, Quito, Ecuador",
+        "lat": -0.0477903,
+        "lon": -78.4608125,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Ajaví, Ibarra, Ecuador",
+        "lat": 0.3550067,
+        "lon": -78.1246446,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Malacatos, Loja, Ecuador",
+        "lat": -4.2193255,
+        "lon": -79.2585759,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Esmeraldas, Esmeraldas, Ecuador",
+        "lat": 0.9668153,
+        "lon": -79.6523847,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Salinas, Santa Elena, Ecuador",
+        "lat": -2.2612497,
+        "lon": -80.9237973,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Bellavista, Guayaquil, Ecuador",
+        "lat": -2.1786522,
+        "lon": -79.9133686,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Ceibos, Guayaquil, Ecuador",
+        "lat": -2.1545418,
+        "lon": -79.9404629,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "González Suárez, Quito, Ecuador",
+        "lat": -0.2204793,
+        "lon": -78.5113867,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "La Carolina, Quito, Ecuador",
+        "lat": -0.190368,
+        "lon": -78.4855008,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Centro Histórico, Quito, Ecuador",
+        "lat": -0.2274474,
+        "lon": -78.5147636,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "San Juan, Quito, Ecuador",
+        "lat": -0.2099033,
+        "lon": -78.5259131,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Tumbaco, Quito, Ecuador",
+        "lat": -0.2122548,
+        "lon": -78.4044951,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Cumbayá, Quito, Ecuador",
+        "lat": -0.2011693,
+        "lon": -78.4293647,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Zaruma, El Oro, Ecuador",
+        "lat": -3.5111939,
+        "lon": -79.5131743,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Piñas, El Oro, Ecuador",
+        "lat": -3.7106808,
+        "lon": -79.7832238,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "San José de Minas, Pichincha, Ecuador",
+        "lat": 0.1830974,
+        "lon": -78.4327485,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Baños, Tungurahua, Ecuador",
+        "lat": -1.3319157,
+        "lon": -78.2625285,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Azogues, Cañar, Ecuador",
+        "lat": -2.6317291,
+        "lon": -78.7008934,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "Pujilí, Cotopaxi, Ecuador",
+        "lat": -1.0077046,
+        "lon": -78.8559205,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "San Gabriel, Carchi, Ecuador",
+        "lat": 0.598485,
+        "lon": -77.835319,
+        "flooded": 0,
+        "verificado": false,
+        "fuente": "Nominatim",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "quebradas Maconta, Portoviejo, Ecuador",
+        "lat": -1.0494,
+        "lon": -80.3951,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Manual/Aprox",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    },
+    {
+        "name": "quebradas Bijagual, Portoviejo, Ecuador",
+        "lat": -1.1399,
+        "lon": -80.3204,
+        "flooded": 1,
+        "verificado": false,
+        "fuente": "Manual/Aprox",
+        "notas": "Requiere verificación de coordenadas y fuente de lluvia."
+    }
+]

@@ -1,0 +1,24 @@
+id,name,lat,lon,flooded,tipo,elevacion_dem_m,dist_cauce_m,fuente_url,verificado
+1,"Monte Sinaí, Guayaquil, Ecuador",-2.125265,-79.9961802,1,Positivo Documentado,43.2,58.8,guayaquil.gob.ec / ecuavisa.com/noticias/guayaquil/30-sectores-inundados-guayaquil-3-abril-DB9065410,True
+2,"Socio Vivienda 1, Guayaquil, Ecuador",-2.129892,-79.9628353,1,Positivo Documentado,68.5,192.1,guayaquil.gob.ec / ecuavisa.com/noticias/guayaquil/agucero-guayaquil-truenos-rayos-AA9057288,False
+3,"La Alborada, Guayaquil, Ecuador",-2.1266697,-79.9116963,1,Positivo Documentado,10.5,0.0,ecuavisa.com/noticias/guayaquil/agucero-guayaquil-truenos-rayos-AA9057288,True
+4,"El Fortín, Guayaquil, Ecuador",-2.1145667,-79.9528226,1,Positivo Documentado,38.6,238.3,ecuavisa.com/noticias/guayaquil/agucero-guayaquil-truenos-rayos-AA9057288,True
+5,"Mi Lote, Guayaquil, Ecuador",-2.0642448,-79.9650568,1,Positivo Documentado,25.2,0.0,ecuavisa.com/noticias/guayaquil/agucero-guayaquil-truenos-rayos-AA9057288,True
+6,"Cooperativa Julio Cartagena, Guayaquil, Ecuador",-2.1282509,-79.923963,1,Positivo Documentado,38.4,228.5,ecuavisa.com/noticias/guayaquil/agucero-guayaquil-truenos-rayos-AA9057288,True
+7,"Sauces 6, Guayaquil, Ecuador",-2.1251608,-79.8971326,1,Positivo Documentado,5.8,580.3,primicias.ec/guayaquil/inundaciones-negocios-sauces-lluvias-ecuador-93180/,True
+8,"Sauces 7, Guayaquil, Ecuador",-2.1353181,-79.8903395,1,Positivo Documentado,9.2,180.0,primicias.ec/guayaquil/inundaciones-negocios-sauces-lluvias-ecuador-93180/,True
+9,"Samanes 1, Guayaquil, Ecuador",-2.1145601,-79.9028132,1,Positivo Documentado,12.2,467.6,primicias.ec/guayaquil/inundaciones-calles-invierno-horas-lluvias-93167/,True
+10,"Urdesa Central, Guayaquil, Ecuador",-2.170661,-79.9082659,1,Positivo Documentado,7.4,443.2,primicias.ec/guayaquil/inundaciones-calles-invierno-horas-lluvias-93167/,True
+11,"Sauces 2, Guayaquil, Ecuador",-2.1381358,-79.8884177,1,Positivo Documentado,5.3,67.1,primicias.ec/guayaquil/inundaciones-calles-invierno-horas-lluvias-93167/,True
+12,"avenida Barcelona, Guayaquil, Ecuador",-2.1883433,-79.9037665,1,Positivo Documentado,5.4,64.7,primicias.ec/guayaquil/inundaciones-calles-invierno-horas-lluvias-93167/,True
+13,"avenida Narcisa de Jesús, Guayaquil, Ecuador",-2.1344406,-79.8820463,1,Positivo Documentado,5.4,291.8,primicias.ec/guayaquil/inundaciones-calles-invierno-horas-lluvias-93167/,True
+14,"Cerro Santa Ana, Guayaquil, Ecuador",-2.1812885,-79.8832246,0,Negativo Espacial,67.0,182.5,https://guayaquil.gob.ec/,True
+15,"Las Peñas, Guayaquil, Ecuador",-2.1816861,-79.8753755,0,Negativo Espacial,64.9,174.6,https://guayaquil.gob.ec/,True
+16,"Bellavista, Guayaquil, Ecuador",-2.1786522,-79.9133686,0,Negativo Espacial,56.1,394.0,https://guayaquil.gob.ec/,True
+17,"Lomas de Urdesa, Guayaquil, Ecuador",-2.1636475,-79.9075011,0,Negativo Espacial,43.0,558.5,https://guayaquil.gob.ec/,True
+18,"Mirador San Eduardo, Guayaquil, Ecuador",-2.1667433,-79.9261953,0,Negativo Espacial,119.4,696.3,https://guayaquil.gob.ec/,True
+19,"Bosque Protector Cerro Blanco, Guayaquil, Ecuador",-2.1584544,-80.0274883,0,Negativo Espacial,375.5,127.3,https://guayaquil.gob.ec/,False
+20,"Cerro Colorado, Guayaquil, Ecuador",-2.0718655,-79.9013544,0,Negativo Espacial,103.5,284.6,https://guayaquil.gob.ec/,False
+21,"Lomas de la Florida, Guayaquil, Ecuador",-2.1330512,-79.9569878,0,Negativo Espacial,86.3,161.6,https://guayaquil.gob.ec/,True
+22,"Lomas de Prosperina, Guayaquil, Ecuador",-2.1384715,-79.9229915,0,Negativo Espacial,46.9,417.8,https://guayaquil.gob.ec/,True
+23,"Calderón, Portoviejo, Ecuador",-1.0284806,-80.3417931,1,Positivo Documentado,48.9,8.3,eldiario.ec/actualidad/portoviejo/portoviejo-supero-los-3746-milimetros...,False
